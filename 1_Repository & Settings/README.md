@@ -43,8 +43,6 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
  ├─ 📂 Sandbox
  └─ 📂 Code-Journey
      ├── 📂 1_Repository & Settings
-          ├── 📂 .vscode
-               ├── 📄 settings.json
           ├── 📄 .gitignore
           ├── 📄 README.md
           └── 📄 repository.url
@@ -58,5 +56,5 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
      ├── 📂 Java
      ├── 📂 JavaScript
      └── 📂 Python
-          └── 📂 Grundlagen
+          └── 📄 1_variablen_und_rechnungen.py
 ```
