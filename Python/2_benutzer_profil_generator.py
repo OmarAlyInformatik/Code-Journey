@@ -1,0 +1,11 @@
+print("\n")
+user_name = input("Name: ")
+age = int(input("Age: "))
+height = float(input("Height: "))
+
+print("\n")
+print("Identification ↓")
+print(user_name)
+print(age)
+print(height)
+print("\n")
