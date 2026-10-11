@@ -49,5 +49,5 @@ Exercism bietet strukturierte Tracks mit wachsendem Schwierigkeitsgrad. So lerne
      |    └── 📄 repository.url
      |
      └── 📂 Python
-          └──
+          └── 📄
 ```
